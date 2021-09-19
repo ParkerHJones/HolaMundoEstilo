@@ -25,9 +25,9 @@ div h2, div h3 {
 
 .color {
     border-style:dotted;
-    border-color:rgb(0, 0 , 0);
-    border-radius:rgb(0, 0 , 0); 
-    border-width: 5px; 
+    border-color: red;
+    border-radius: 5px; 
+    border-width: 2px; 
 }
  
 /* borders
@@ -48,3 +48,7 @@ hidden
 /* div h3 {
     color: blue; 
 } */
+
+#fondo {
+    background-color: pink; 
+}

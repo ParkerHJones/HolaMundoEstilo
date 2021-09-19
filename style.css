@@ -9,3 +9,25 @@ p.especial {
 p.texto {
     color: purple; 
 }
+
+div p {
+    color: aquamarine; 
+}
+
+div h2, div h3 {
+    color: red; 
+}
+
+* { 
+    font-size: 24px; 
+    color: black; 
+}
+
+.color {
+    color: #932;
+}
+
+/* esto es un comentario */ 
+/* div h3 {
+    color: blue; 
+} */

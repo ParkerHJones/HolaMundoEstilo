@@ -24,8 +24,25 @@ div h2, div h3 {
 }
 
 .color {
-    color: #932;
+    border-style:dotted;
+    border-color:rgb(0, 0 , 0);
+    border-radius:rgb(0, 0 , 0); 
+    border-width: 5px; 
 }
+ 
+/* borders
+dotted 
+dashed 
+solid
+double 
+groove
+ridge
+inset
+outset
+none
+hidden
+
+/*
 
 /* esto es un comentario */ 
 /* div h3 {

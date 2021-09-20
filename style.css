@@ -20,7 +20,7 @@ div h2, div h3 {
 
 * { 
     font-size: 24px; 
-    color: black; 
+    /* color: black;  */
 }
 
 .color {
@@ -76,4 +76,52 @@ hidden
     text-align: justify; 
     text-decoration: overline;
     text-shadow: 3px 5px 5px blue; 
+}
+
+a:link {
+    color: blueviolet; 
+}
+
+a:visited {
+    color: grey; 
+}
+
+a:hover {
+    color: yellow; 
+}
+
+a:active {
+    color: red; 
+}
+
+ul {
+    background-color: cyan; 
+    list-style-type: upper-roman; 
+    /* padding: 0;  */
+    list-style-position: inside; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+}
+
+th, td {
+    border: solid 1px; 
+    padding: 5px; 
+}
+
+th {
+    background-color: tomato; 
+    color: white; 
+    text-align: left; 
+}
+
+tr:hover {
+    background-color: rgb(4, 4, 4); 
+    cursor: pointer; 
+}
+
+tr:nth-child(even) {
+    background-color: #eee; 
 }

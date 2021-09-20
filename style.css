@@ -59,3 +59,18 @@ hidden
     background-position: center top;  */
     background: #f00 url('badbunny.jpeg'), repeat-x, center bottom / 100px 100px; 
 }
+
+.margen {
+    background-color: chocolate; 
+    margin: 15px; 
+    padding: 30px 15px 5px; 
+    border: solid 1px black; 
+    height: 100px; 
+    width: 50px; 
+    overflow: scroll; 
+    outline: 1px solid red; 
+}
+
+.text {
+    text-align: center; 
+}

@@ -72,5 +72,8 @@ hidden
 }
 
 .text {
-    text-align: center; 
+    font-family:'Noto Sans Japanese', sans-serif; 
+    text-align: justify; 
+    text-decoration: overline;
+    text-shadow: 3px 5px 5px blue; 
 }
